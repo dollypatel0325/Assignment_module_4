@@ -1,0 +1,5 @@
+20
+hello my name is dolly.
+good Morning
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum.
+Python is a dynamic, interpreted (bytecode-compiled) language. 
